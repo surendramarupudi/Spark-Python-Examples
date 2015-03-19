@@ -3,7 +3,9 @@ This include the complete procedure to run the basic Apache Spark Python Streami
 
 ##Requirements
 1.Downloading the latest Apache Spark from [Download Apache Spark here](https://spark.apache.org/downloads.html)
+
 2.Extract it and movie it to your appliations directory.
+
 3.Install Python version 2.6 or more.
 
 
