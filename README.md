@@ -8,4 +8,7 @@ This include the complete procedure to run the basic Apache Spark Python Streami
 
 3.Install Python version 2.6 or more.
 
+4. Install Hadoop Version on which Apache Spark build against. (if the Apache spark build against Hadoop 2.4 or more we need to install Hadoop version 2.4 or more, in order to work with HDFS file system.
+5. 
+
 
