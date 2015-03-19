@@ -15,10 +15,10 @@ __author__ = "Surendra Marupudi"
 from pyspark import SparkContext
 import sys, getopt
 
-" " " 
+""" 
     Check number of command line arguments. If the number of arguments are not equla to 3 then output the error message and exit
     and if the number of arguments are 3 then read the command line arguments.
-" " "
+"""
 
 if len(sys.argv) != 3:
    print "Usage : read_hdfs_file.py input_file 'word to search'"
